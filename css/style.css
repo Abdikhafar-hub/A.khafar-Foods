@@ -15,10 +15,13 @@
 }
 
 .logo-main {
-  height: 4.2rem;
+  height: 15rem;
+  width: 20rem;
+  padding-top: 45px;
 }
 .logo2 {
-  height: 3.2rem;
+  height: 15rem;
+  width: 20rem;
 }
 
 /**************************/
