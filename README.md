@@ -1,6 +1,6 @@
-# Makifoods
+# A.khafar foods
 
-## About Makifoods
+## About A.khafar foods
 
 We are a technology company first, but with a major focus on consumer well-being through a healthy diet. 
 
